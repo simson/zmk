@@ -1,0 +1,8 @@
+# Copyright (c) 2020 The ZMK Contributors
+# SPDX-License-Identifier: MIT
+
+description: Cycle Layer
+
+compatible: "zmk,behavior-cycle-layer"
+
+include: zero_param.yaml
