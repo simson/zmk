@@ -1,0 +1,3 @@
+[submodule "app/zmk-config"]
+	path = app/zmk-config
+	url = git@github.com:simson/zmk-config.git
